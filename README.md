@@ -2,15 +2,15 @@
 
 > Silent gratitude isn’t much use to anyone — GB Stern
 
-As a child, it was important to acknowledge someone’s contribution to my life with thank you. In fact, my mom will remind me when I forgot to say please and thank you. As I grow into adulthood the amount of appreciation I expressed, and my ability to sincerely say thank you had a dramatic impact on how I relate to others.
+As a child, it was important to acknowledge someone’s contribution to my life with thank you. In fact, my mom will remind me when I forgot to say please and thank you. As I grew into adulthood the amount of appreciation I expressed, and my ability to sincerely say thank you — had a dramatic impact on how I relate to others :grin:.
 
 In order to use those powerful words effectively, I compiled how to say thank you in ~~50~~ 70 languages in multiple formats:
-* Comma Separated Variable [(CSV)]([https://www.ietf.org/rfc/rfc4180.txt);
+* Comma Separated Variable [(CSV)](https://www.ietf.org/rfc/rfc4180.txt);
 * JavaScript Object Notation [(JSON)](https://www.json.org/);
 * Tom's Obvious, Minimal Language [(TOML)](https://github.com/toml-lang/toml);
 * YAML Ain't Markup Language [(YAML)](http://yaml.org/);
 
-Seems pretty obvious, right? Refer to this 3-minute talk: [TED 2008 — remember to say thank you](https://www.ted.com/talks/laura_trice_suggests_we_all_say_thank_you) by [Laura Trice](http://www.drlauramd.com/) for more information about the subject :grin:.
+Seems pretty obvious, right? Refer to this 3-minute talk: [TED 2008 — remember to say thank you](https://www.ted.com/talks/laura_trice_suggests_we_all_say_thank_you) by [Laura Trice](http://www.drlauramd.com/) for more information about this important topic.
 
 ## Word cloud
 ![thankYou wordClout](https://github.com/bhdicaire/solarized/raw/master/img/thankYou%20(clout).png))
