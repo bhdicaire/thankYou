@@ -8,6 +8,7 @@ In order to use those powerful words effectively, I compiled how to say thank yo
 * Comma Separated Variable [(CSV)](https://www.ietf.org/rfc/rfc4180.txt);
 * JavaScript Object Notation [(JSON)](https://www.json.org/);
 * Tom's Obvious, Minimal Language [(TOML)](https://github.com/toml-lang/toml);
+* Extensible Markup Language [(XML)](https://www.w3.org/TR/xml/)
 * YAML Ain't Markup Language [(YAML)](http://yaml.org/);
 
 Seems pretty obvious, right? Refer to this 3-minute talk: [TED 2008 — remember to say thank you](https://www.ted.com/talks/laura_trice_suggests_we_all_say_thank_you) by [Laura Trice](http://www.drlauramd.com/) for more information about this important topic.
